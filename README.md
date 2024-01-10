@@ -1,13 +1,14 @@
 # 환승메이트 프로젝트 (💡 몰입캠프 2주차: 홍성문, 서해린)
 
-  홍성문: 한양대학교 컴퓨터소프트웨학부 2학년
+- 홍성문: 한양대학교 컴퓨터소프트웨학부 2학년
 
-  서해린: 카이스트 전산학부 2학년
+- 서해린: 카이스트 전산학부 2학년
 
-  제작기간: 2024-1-4(목) ~ 20204-1-10
+- 제작기간: 2024-1-4(목) ~ 20204-1-10
 
-  사용언어: Kotlin, MySQL, SprintBoot, 일러스트레이터
+- 사용언어: Kotlin, MySQL, SprintBoot, 일러스트레이터
 
+<img width=200 height=200 src="./docs/Image/logo.png">
 
 ## 1. 🔍프로젝트 소개✏️
 
@@ -56,12 +57,51 @@
 
 ## 3. 화면 이미지🎯
 
-|Photo1|Photo2|Photo3|Photo4|
-|--|--|--|--|
-|<img width=200 height=400 src="./docs/Image/0_gif.gif"|<img width=200 height=400 src="./docs/Image/0_1.jpg">|<img width=200 height=400 src="./docs/Image/0_2.jpg">|<img width=200 height=400 src="./docs/Image/0_3.jpg">|
+1.Splash 화면
+
+<img src="https://github.com/HHsungmoon/MadCampPj2/blob/main/docs/Image/0_gif.gif">
+
+2.Login 화면
+
+|Photo1|Photo2|Photo3|
+|--|--|--|
+|<img width=200 height=400 src="./docs/Image/0_1.jpg">|<img width=200 height=400 src="./docs/Image/0_2.jpg">|<img width=200 height=400 src="./docs/Image/0_3.jpg">|
+
+3.MateList 화면
+
+<img src="https://github.com/HHsungmoon/MadCampPj2/blob/main/docs/Image/1_gif.gif">
+
+|Photo1|Photo2|Photo3|
+|--|--|--|
+|<img width=200 height=400 src="./docs/Image/1_1.jpg">|<img width=200 height=400 src="./docs/Image/1_2.jpg">|<img width=200 height=400 src="./docs/Image/1_3.jpg">|
+
+4.MateLetter
+
+<img src="https://github.com/HHsungmoon/MadCampPj2/blob/main/docs/Image/2_gif.gif">
 
 
-## 4. 프로젝트를 진행하며 어려웠던 점
+|Photo1|Photo2|Photo3|
+|--|--|--|
+|<img width=200 height=400 src="./docs/Image/2_1.jpg">|<img width=200 height=400 src="./docs/Image/2_2.jpg">|<img width=200 height=400 src="./docs/Image/2_3.jpg">|
 
 
-## 5. 🚨부족한 부분
+|Photo1|Photo2|
+|--|--|
+|<img width=200 height=400 src="./docs/Image/2_4.jpg">|<img width=200 height=400 src="./docs/Image/2_5.jpg">|
+
+
+5. PostBox
+
+<img src="https://github.com/HHsungmoon/MadCampPj2/blob/main/docs/Image/3_gif.gif">
+
+|Photo1|Photo2|Photo3|
+|--|--|--|
+|<img width=200 height=400 src="./docs/Image/3_1.jpg">|<img width=200 height=400 src="./docs/Image/3_2.jpg">|<img width=200 height=400 src="./docs/Image/3_3.jpg">|
+
+## 4. 🚨프로젝트를 진행하며 어려웠던 점
+
+1. 이미지의 크기가 너무 커서 발생했던 수많은 시행착오가 힘들었다.
+2. DB와 Spring부트가 완전 처음이어서 어려웠다.
+3. 특히 DB에서 이미지 파일을 불러오고 업로드 하는 부분이 정말 어려웠다.
+4. 드래그앤 드롭과 스티커를 붙이는 기능 구현이 생각보다 오래 걸렸다.
+
