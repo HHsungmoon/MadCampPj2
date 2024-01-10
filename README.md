@@ -74,9 +74,34 @@
 |--|--|--|
 |<img width=200 height=400 src="./docs/Image/1_1.jpg">|<img width=200 height=400 src="./docs/Image/1_2.jpg">|<img width=200 height=400 src="./docs/Image/1_3.jpg">|
 
+4.MateLetter
+
+
+<img src="https://github.com/HHsungmoon/MadCampPj2/blob/main/docs/Image/2_gif.gif">
+
+
+|Photo1|Photo2|Photo3|
+|--|--|--|
+|<img width=200 height=400 src="./docs/Image/2_1.jpg">|<img width=200 height=400 src="./docs/Image/2_2.jpg">|<img width=200 height=400 src="./docs/Image/2_3.jpg">|
+
+
+|Photo1|Photo2|
+|--|--|--|
+|<img width=200 height=400 src="./docs/Image/2_4.jpg">|<img width=200 height=400 src="./docs/Image/2_5.jpg">|
+
+
+5. PostBox
+
+<img src="https://github.com/HHsungmoon/MadCampPj2/blob/main/docs/Image/3_gif.gif">
+
+|Photo1|Photo2|Photo3|
+|--|--|--|
+|<img width=200 height=400 src="./docs/Image/3_1.jpg">|<img width=200 height=400 src="./docs/Image/3_2.jpg">|<img width=200 height=400 src="./docs/Image/3_3.jpg">|
 
 ## 4. 🚨프로젝트를 진행하며 어려웠던 점
 
 1. 이미지의 크기가 너무 커서 발생했던 수많은 시행착오가 힘들었다.
 2. DB와 Spring부트가 완전 처음이어서 어려웠다.
+3. 특히 DB에서 이미지 파일을 불러오고 업로드 하는 부분이 정말 어려웠다.
+4. 드래그앤 드롭과 스티커를 붙이는 기능 구현이 생각보다 오래 걸렸다.
 
