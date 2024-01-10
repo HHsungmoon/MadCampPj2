@@ -1,12 +1,12 @@
 # 환승메이트 프로젝트 (💡 몰입캠프 2주차: 홍성문, 서해린)
 
-  홍성문: 한양대학교 컴퓨터소프트웨학부 2학년
+-홍성문: 한양대학교 컴퓨터소프트웨학부 2학년
 
-  서해린: 카이스트 전산학부 2학년
+-서해린: 카이스트 전산학부 2학년
 
-  제작기간: 2024-1-4(목) ~ 20204-1-10
+-제작기간: 2024-1-4(목) ~ 20204-1-10
 
-  사용언어: Kotlin, MySQL, SprintBoot, 일러스트레이터
+-사용언어: Kotlin, MySQL, SprintBoot, 일러스트레이터
 
 
 ## 1. 🔍프로젝트 소개✏️
@@ -55,11 +55,21 @@
 
 
 ## 3. 화면 이미지🎯
+
+1.Splash 화면
 <img src="https://github.com/HHsungmoon/MadCampPj2/blob/main/docs/Image/0_gif.gif">
+
+2.Login 화면
+|Photo1|Photo2|Photo3|
+|--|--|--|
+|<img width=200 height=400 src="./docs/Image/0_1.jpg">|<img width=200 height=400 src="./docs/Image/0_2.jpg">|<img width=200 height=400 src="./docs/Image/0_3.jpg">|
+
+3.MateList 화면
+<img src="https://github.com/HHsungmoon/MadCampPj2/blob/main/docs/Image/1_gif.gif">
 
 |Photo1|Photo2|Photo3|
 |--|--|--|
-||<img width=200 height=400 src="./docs/Image/0_1.jpg">|<img width=200 height=400 src="./docs/Image/0_2.jpg">|<img width=200 height=400 src="./docs/Image/0_3.jpg">|
+|<img width=200 height=400 src="./docs/Image/1_1.jpg">|<img width=200 height=400 src="./docs/Image/1_2.jpg">|<img width=200 height=400 src="./docs/Image/1_3.jpg">|
 
 
 ## 4. 프로젝트를 진행하며 어려웠던 점
