@@ -8,7 +8,7 @@
 
 - 사용언어🔍: Kotlin, MySQL, SprintBoot, 일러스트레이터
 
-<img width=200 height=200 src="./docs/Image/logo.png">
+<img width=200 height=400 src="./docs/Image/logo.png">
 
 ## 1. 프로젝트 소개✏️
 
