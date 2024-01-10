@@ -59,7 +59,7 @@
 
 1.Splash 화면
 
-<img src="https://github.com/HHsungmoon/MadCampPj2/blob/main/docs/Image/0.gif.gif">
+<img width=200 height=200 src="https://github.com/HHsungmoon/MadCampPj2/blob/main/docs/Image/0.gif.gif">
 
 2.Login 화면
 
