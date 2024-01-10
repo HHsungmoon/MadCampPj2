@@ -57,6 +57,7 @@
 ## 3. 화면 이미지🎯
 
 1.Splash 화면
+
 <img src="https://github.com/HHsungmoon/MadCampPj2/blob/main/docs/Image/0_gif.gif">
 
 2.Login 화면
