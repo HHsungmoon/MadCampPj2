@@ -60,11 +60,13 @@
 <img src="https://github.com/HHsungmoon/MadCampPj2/blob/main/docs/Image/0_gif.gif">
 
 2.Login 화면
+
 |Photo1|Photo2|Photo3|
 |--|--|--|
 |<img width=200 height=400 src="./docs/Image/0_1.jpg">|<img width=200 height=400 src="./docs/Image/0_2.jpg">|<img width=200 height=400 src="./docs/Image/0_3.jpg">|
 
 3.MateList 화면
+
 <img src="https://github.com/HHsungmoon/MadCampPj2/blob/main/docs/Image/1_gif.gif">
 
 |Photo1|Photo2|Photo3|
@@ -72,7 +74,8 @@
 |<img width=200 height=400 src="./docs/Image/1_1.jpg">|<img width=200 height=400 src="./docs/Image/1_2.jpg">|<img width=200 height=400 src="./docs/Image/1_3.jpg">|
 
 
-## 4. 프로젝트를 진행하며 어려웠던 점
+## 4. 🚨프로젝트를 진행하며 어려웠던 점
 
+1. 이미지의 크기가 너무 커서 발생했던 수많은 시행착오가 힘들었다.
+2. DB와 Spring부트가 완전 처음이어서 어려웠다.
 
-## 5. 🚨부족한 부분
