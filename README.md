@@ -8,6 +8,7 @@
 
 - 사용언어: Kotlin, MySQL, SprintBoot, 일러스트레이터
 
+<img width=200 height=200 src="./docs/Image/logo.png">
 
 ## 1. 🔍프로젝트 소개✏️
 
@@ -76,7 +77,6 @@
 
 4.MateLetter
 
-
 <img src="https://github.com/HHsungmoon/MadCampPj2/blob/main/docs/Image/2_gif.gif">
 
 
@@ -86,7 +86,7 @@
 
 
 |Photo1|Photo2|
-|--|--|--|
+|--|--|
 |<img width=200 height=400 src="./docs/Image/2_4.jpg">|<img width=200 height=400 src="./docs/Image/2_5.jpg">|
 
 
