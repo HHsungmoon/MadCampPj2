@@ -55,10 +55,11 @@
 
 
 ## 3. 화면 이미지🎯
+<img src="https://github.com/HHsungmoon/MadCampPj2/blob/main/docs/Image/0_gif.gif">
 
-|Photo1|Photo2|Photo3|Photo4|
-|--|--|--|--|
-|<img src="https://github.com/HHsungmoon/MadCampPj2/blob/main/docs/Image/0_gif.gif"|<img width=200 height=400 src="./docs/Image/0_1.jpg">|<img width=200 height=400 src="./docs/Image/0_2.jpg">|<img width=200 height=400 src="./docs/Image/0_3.jpg">|
+|Photo1|Photo2|Photo3|
+|--|--|--|
+||<img width=200 height=400 src="./docs/Image/0_1.jpg">|<img width=200 height=400 src="./docs/Image/0_2.jpg">|<img width=200 height=400 src="./docs/Image/0_3.jpg">|
 
 
 ## 4. 프로젝트를 진행하며 어려웠던 점
